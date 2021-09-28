@@ -26,7 +26,7 @@ I believe in learning can make a better version of myself. I hava a passion for 
 
   ## ✉️ Contact ✉️
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://da-journal.com/)](https://da-journal.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/terrydawunhan)](www.linkedin.com/in/terrydawunhan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terrydawunhan)](www.linkedin.com/in/terrydawunhan)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dawun.han@gmail.com)](mailto:dawun.han@gmail.com)
 	
 
