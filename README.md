@@ -27,7 +27,7 @@ Learning can make a better version of myself! I hava a passion for learning and 
 
   ## ✉️ Contact ✉️
 [![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Dashlane&link=https://dawunhan.github.io/portfolio/)](https://dawunhan.github.io/portfolio/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-navy?style=for-the-badge&logo=github&link=https://da-journal.com/)](https://da-journal.com/)
+[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-navy?style=for-the-badge&logo=github&link=https://da-journal.com/)](https://da-journal.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terrydawunhan)](https://www.linkedin.com/in/terrydawunhan)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dawun.han@gmail.com)](mailto:dawun.han@gmail.com)
 	
