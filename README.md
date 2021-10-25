@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hola, I'm D.A Dawun Han 👋</h1>
+  <h2>👋 Hola, I'm D.A Dawun Han 👋</h2>
 Learning can make a better version of myself! I hava a passion for learning and sharing my ideas with people to inspire each other. I have uploaded blog posts and code on github to share what I learned recently. Please feel free to give me any good advice or your opinions. Thank you 😄�
 
 
@@ -23,6 +23,15 @@ Learning can make a better version of myself! I hava a passion for learning and 
 ![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
 
   
+<br></br>
+## 📄 Personal Projects 📄
+[![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=Game-sales-Analysis&theme=tokyonight)](https://github.com/DAWUNHAN/Game-sales-Analysis)
+[![DataAnalysisInPython](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=DataAnalysisInPython&theme=tokyonight)](https://github.com/DAWUNHAN/DataAnalysisInPython)
+[![Algorithms-and-DataStructure](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=Algorithms-and-DataStructure&theme=tokyonight)](https://github.com/DAWUNHAN/Algorithms-and-DataStructure)
+[![Apple-interactive](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=Apple-interactive&theme=tokyonight)](https://github.com/DAWUNHAN/Apple-interactive)
+[![itube](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=itube&theme=tokyonight)](https://github.com/DAWUNHAN/itube)
+[![nomflix](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=nomflix&theme=tokyonight)](https://github.com/DAWUNHAN/nomflix)
+
 <br></br>
 
   ## ✉️ Contact ✉️
