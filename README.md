@@ -1,7 +1,12 @@
 <div align="center">
   <h2>👋 Hola, I'm D.A Dawun Han 👋</h2>
-Learning can make a better version of myself! I hava a passion for learning and sharing my ideas with people to inspire each other. I have uploaded blog posts and code on github to share what I learned recently. Please feel free to give me any good advice or your opinions. Thank you 😄�
+Learning can make a better version of myself! I hava a passion for learning and sharing my ideas with people to inspire each other. <br>I have uploaded blog posts and code on github to share what I learned recently. Thank you 😄
 
+  ## ✉️ Contact ✉️
+[![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Dashlane&link=https://dawunhan.github.io/portfolio/)](https://dawunhan.github.io/portfolio/)
+[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-navy?style=for-the-badge&logo=github&link=https://da-journal.com/)](https://da-journal.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terrydawunhan)](https://www.linkedin.com/in/terrydawunhan)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dawun.han@gmail.com)](mailto:dawun.han@gmail.com)
 
   <br></br>
 
@@ -34,11 +39,6 @@ Learning can make a better version of myself! I hava a passion for learning and 
 
 <br></br>
 
-  ## ✉️ Contact ✉️
-[![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Dashlane&link=https://dawunhan.github.io/portfolio/)](https://dawunhan.github.io/portfolio/)
-[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-navy?style=for-the-badge&logo=github&link=https://da-journal.com/)](https://da-journal.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terrydawunhan)](https://www.linkedin.com/in/terrydawunhan)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dawun.han@gmail.com)](mailto:dawun.han@gmail.com)
 	
 
 </div>
