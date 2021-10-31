@@ -6,6 +6,7 @@ Learning can make a better version of myself! I hava a passion for learning and 
 <br></br>
  ### 💻 Tech Stack 💻
 <img align="center" alt="sklearn" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/sklearn.png?raw=true"></img>
+<img align="center" alt="pandas" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/pandas.png?raw=true"></img>
 <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
