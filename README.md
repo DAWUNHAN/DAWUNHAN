@@ -2,7 +2,10 @@
   <h2>👋 Hola, I'm D.A Dawun Han 👋</h2>
 Learning can make a better version of myself! I hava a passion for learning and sharing my ideas with people to inspire each other. <br>I have uploaded blog posts and code on github to share what I learned recently. Thank you 😄
 
-  
+<br></br> [![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Dashlane&link=https://dawunhan.github.io/portfolio/)](https://dawunhan.github.io/portfolio/)
+[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-navy?style=for-the-badge&logo=github&link=https://da-journal.com/)](https://da-journal.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terrydawunhan)](https://www.linkedin.com/in/terrydawunhan)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dawun.han@gmail.com)](mailto:dawun.han@gmail.com)  
 <br></br>
  ### 💻 Tech Stack 💻
 <img align="center" alt="sklearn" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/sklearn.png?raw=true"></img>
@@ -35,6 +38,7 @@ Learning can make a better version of myself! I hava a passion for learning and 
 
 <br></br>
 
+<!--
 
  ### ✉️ Contact ✉️
 [![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Dashlane&link=https://dawunhan.github.io/portfolio/)](https://dawunhan.github.io/portfolio/)
@@ -44,7 +48,7 @@ Learning can make a better version of myself! I hava a passion for learning and 
 
 
 
-<!-- ![](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
+ ![](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
