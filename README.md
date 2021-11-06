@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Hola, I'm D.A Dawun Han 👋</h2>
-Learning can make a better version of myself!! I hava a passion for learning and sharing my ideas with people to inspire each other. <br>I have uploaded blog posts and code on github to share what I learned recently. Thank you 😄
+Learning can make a better version of myself!! I hava a passion for learning and sharing my ideas with people to inspire each other. I have uploaded blog posts and code on github to share what I learned recently. Thank you 😄
 
 <br></br> [![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Dashlane&link=https://dawunhan.github.io/portfolio/)](https://dawunhan.github.io/portfolio/)
 [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-navy?style=for-the-badge&logo=github&link=https://da-journal.com/)](https://da-journal.com/)
