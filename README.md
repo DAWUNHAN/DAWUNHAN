@@ -28,6 +28,7 @@ Learning can make a better version of myself!! I hava a passion for learning and
   
 <br></br>
 ### 📄 Personal Projects 📄
+[![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=Weather-Predict&theme=tokyonight)](https://github.com/DAWUNHAN/Weather-Predict)
 [![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=Game-sales-Analysis&theme=tokyonight)](https://github.com/DAWUNHAN/Game-sales-Analysis)
 [![DataAnalysisInPython](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=DataAnalysisInPython&theme=tokyonight)](https://github.com/DAWUNHAN/DataAnalysisInPython)
 [![MachineLearning](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=Machine-Learning&theme=tokyonight)](https://github.com/DAWUNHAN/Machine-Learning)
