@@ -7,7 +7,7 @@ Learning can make a better version of myself!! I hava a passion for learning and
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terrydawunhan)](https://www.linkedin.com/in/terrydawunhan)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dawun.han@gmail.com)](mailto:dawun.han@gmail.com)  
 <br></br>
- ### 💻 Tech Stack 💻
+ ### 💻 Tech Stacks 💻
  <img align="center" alt="seaborn" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/seaborn.png?raw=true"></img>
 <img align="center" alt="sklearn" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/sklearn.png?raw=true"></img>
 <img align="center" alt="pandas" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/pandas.png?raw=true"></img>
