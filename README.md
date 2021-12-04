@@ -29,12 +29,12 @@ Learning can make a better version of myself!! I hava a passion for learning and
   
 <br></br>
 ### 📄 Projects 📄
-[![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=Weather-Predict&theme=tokyonight)](https://github.com/DAWUNHAN/Weather-Predict)
-[![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=Game-sales-Analysis&theme=tokyonight)](https://github.com/DAWUNHAN/Game-sales-Analysis)
-[![DataAnalysisInPython](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=DataAnalysisInPython&theme=tokyonight)](https://github.com/DAWUNHAN/DataAnalysisInPython)
+[![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=weather-predict&theme=tokyonight)](https://github.com/DAWUNHAN/Weather-Predict)
+[![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=game-sales-analysis&theme=tokyonight)](https://github.com/DAWUNHAN/Game-sales-Analysis)
+[![DataAnalysisInPython](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=dataAnalysisInPython&theme=tokyonight)](https://github.com/DAWUNHAN/DataAnalysisInPython)
 [![MachineLearning](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=machine-learning&theme=tokyonight)](https://github.com/DAWUNHAN/Machine-Learning)
-[![Algorithms-and-DataStructure](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=Algorithms-and-DataStructure&theme=tokyonight)](https://github.com/DAWUNHAN/Algorithms-and-DataStructure)
-[![Apple-interactive](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=Apple-interactive&theme=tokyonight)](https://github.com/DAWUNHAN/Apple-interactive)
+[![Algorithms-and-DataStructure](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=algorithms-and-dataStructure&theme=tokyonight)](https://github.com/DAWUNHAN/Algorithms-and-DataStructure)
+[![Apple-interactive](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=apple-interactive&theme=tokyonight)](https://github.com/DAWUNHAN/Apple-interactive)
 
 <br></br>
 
