@@ -8,16 +8,17 @@ Learning can make a better version of myself!! I hava a passion for learning and
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dawun.han@gmail.com)](mailto:dawun.han@gmail.com)  
 <br></br>
  ### 💻 Tech Stacks 💻
- <img align="center" alt="seaborn" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/seaborn.png?raw=true"></img>
+ <img align="center" alt="tf" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/Tensorflow_logo.png?raw=true"></img>
+  <img align="center" alt="keras" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/keras.png?raw=true"></img>
+<img align="center" alt="seaborn" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/seaborn.png?raw=true"></img>
 <img align="center" alt="sklearn" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/sklearn.png?raw=true"></img>
 <img align="center" alt="pandas" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/pandas.png?raw=true"></img>
 <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="center" alt="google-data-studio" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/google-data-studio.png?raw=true"></img>
 <img align="center" alt="aws" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/aws.png?raw=true" />
 <img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="center" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
+<img align="center" alt="MySQL" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/mysql_workbench.png?raw=true" />
+<img align="center" alt="MongoDB" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/mongodb2.png?raw=true" />
 
 <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
