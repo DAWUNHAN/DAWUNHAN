@@ -33,7 +33,7 @@ Learning can make a better version of myself!! I hava a passion for learning and
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="Heroku" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/heroku.png?raw=true" />
 <img align="center" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/firebase.svg" />
-<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"  />
 
 
   
