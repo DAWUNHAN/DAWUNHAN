@@ -35,7 +35,7 @@ Learning can make a better version of myself!! I hava a passion for learning and
 <img align="center" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/firebase.svg" />
 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"  />
 
-
+<!--
   
 <br></br>
 ### 📄 Projects 📄
@@ -50,7 +50,7 @@ Learning can make a better version of myself!! I hava a passion for learning and
 
 <br></br>
 
-<!--
+
 
  ### ✉️ Contact ✉️
 
