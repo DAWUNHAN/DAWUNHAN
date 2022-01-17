@@ -46,7 +46,7 @@ Learning can make a better version of myself!! I hava a passion for learning and
 [![DataAnalysisInPython](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=dataAnalysisInPython&theme=tokyonight)](https://github.com/DAWUNHAN/DataAnalysisInPython)
 [![MachineLearning](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=machine-learning&theme=tokyonight)](https://github.com/DAWUNHAN/Machine-Learning)
 [![Algorithms-and-DataStructure](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=algorithms-and-dataStructure&theme=tokyonight)](https://github.com/DAWUNHAN/Algorithms-and-DataStructure)
-[![Apple-interactive](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=apple-interactive&theme=tokyonight)](https://github.com/DAWUNHAN/Apple-interactive)
+[![deeplearning-fundamental](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=deeplearning-fundamental&theme=tokyonight)](https://github.com/DAWUNHAN/deeplearning-fundamental)
 
 <br></br>
 
