@@ -44,8 +44,8 @@ Learning can make a better version of myself!! I hava a passion for learning and
 [![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=weather-predict&theme=tokyonight)](https://github.com/DAWUNHAN/Weather-Predict)
 [![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=game-sales-analysis&theme=tokyonight)](https://github.com/DAWUNHAN/Game-sales-Analysis)
 [![DataAnalysisInPython](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=dataAnalysisInPython&theme=tokyonight)](https://github.com/DAWUNHAN/DataAnalysisInPython)
-[![MachineLearning](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=machine-learning&theme=tokyonight)](https://github.com/DAWUNHAN/Machine-Learning)
 [![Algorithms-and-DataStructure](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=algorithms-and-dataStructure&theme=tokyonight)](https://github.com/DAWUNHAN/Algorithms-and-DataStructure)
+[![MachineLearning](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=machine-learning&theme=tokyonight)](https://github.com/DAWUNHAN/Machine-Learning)
 [![deeplearning-fundamental](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=deeplearning-fundamental&theme=tokyonight)](https://github.com/DAWUNHAN/deeplearning-fundamental)
 
 <br></br>
