@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">.  
   <h2> Hola, I'm D.A Dawun Han 👋 </h2>
 Learning can make a better version of myself! I hava a passion for learning and sharing my ideas with people to inspire each other. I have uploaded blog posts and code on github to share what I learned recently. Thank you😄
 
