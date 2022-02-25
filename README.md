@@ -30,12 +30,12 @@ Learning can make a better version of myself! I hava a passion for learning and 
   
 <br></br>
 ### 📄 Projects 📄
+[![blocking-hate-speech](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=blocking-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/blocking-hate-speech)
 [![faceAgeDetection](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=faceAgeDetection&theme=tokyonight)](https://github.com/DAWUNHAN/faceAgeDetection)
 [![boxOffice](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=boxOffice&theme=tokyonight)](https://github.com/DAWUNHAN/boxOffice)
 [![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=weather-predict&theme=tokyonight)](https://github.com/DAWUNHAN/Weather-Predict)
 [![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=game-sales-analysis&theme=tokyonight)](https://github.com/DAWUNHAN/Game-sales-Analysis)
 [![DataAnalysisInPython](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=dataAnalysisInPython&theme=tokyonight)](https://github.com/DAWUNHAN/DataAnalysisInPython)
-[![Algorithms-and-DataStructure](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=algorithms-and-dataStructure&theme=tokyonight)](https://github.com/DAWUNHAN/Algorithms-and-DataStructure)
 [![MachineLearning](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=machine-learning&theme=tokyonight)](https://github.com/DAWUNHAN/Machine-Learning)
 [![deeplearning-fundamental](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=deeplearning-fundamental&theme=tokyonight)](https://github.com/DAWUNHAN/deeplearning-fundamental)
 
