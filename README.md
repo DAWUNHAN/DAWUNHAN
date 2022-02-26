@@ -8,9 +8,9 @@ Learning can make a better version of myself! I hava a passion for learning and 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dawun.han@gmail.com)](mailto:dawun.han@gmail.com)  
 <br></br>
  ### 💻 Tech Stacks 💻
-**Data Science: **     **Tensorflow**, OpenCV, **SQL**, MySQL  
+**Data Science:**     **Tensorflow**, OpenCV, **SQL**, MySQL  
 
-**Web Dev: **     HTML, CSS, JS, WordPress
+**Web Dev:**     HTML, CSS, JS, WordPress
 <!--  <img align="center" alt="tf" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/Tensorflow_logo.png?raw=true"></img>
   <img align="center" alt="keras" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/keras.png?raw=true"></img>
 <img align="center" alt="seaborn" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/seaborn.png?raw=true"></img>
