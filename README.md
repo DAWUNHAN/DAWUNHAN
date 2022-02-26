@@ -8,7 +8,10 @@ Learning can make a better version of myself! I hava a passion for learning and 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dawun.han@gmail.com)](mailto:dawun.han@gmail.com)  
 <br></br>
  ### 💻 Tech Stacks 💻
- <img align="center" alt="tf" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/Tensorflow_logo.png?raw=true"></img>
+**Data Science: **     **Tensorflow**, OpenCV, **SQL**, MySQL  
+
+**Web Dev: **     HTML, CSS, JS, WordPress
+<!--  <img align="center" alt="tf" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/Tensorflow_logo.png?raw=true"></img>
   <img align="center" alt="keras" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/keras.png?raw=true"></img>
 <img align="center" alt="seaborn" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/seaborn.png?raw=true"></img>
 <img align="center" alt="sklearn" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/sklearn.png?raw=true"></img>
@@ -24,7 +27,7 @@ Learning can make a better version of myself! I hava a passion for learning and 
 <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="center" alt="Heroku" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/heroku.png?raw=true" />
-<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"  />
+<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"  /> -->
 
 
   
