@@ -9,7 +9,7 @@ Learning can make a better version of myself! I hava a passion for learning and 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dawun.han@gmail.com)](mailto:dawun.han@gmail.com)  
 <br></br>
  ### 💻 Tech Stacks 💻
-Data Science: **TensorFlow**, OpenCV, Keras  
+Data Science: **TensorFlow**, OpenCV, Scikit-learn, Keras, Pandas
 
 Database Skills: **SQL**, NoSQL, MySQL  
 
