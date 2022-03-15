@@ -1,6 +1,7 @@
 <div align="center">.  
   <h2> Hola, I'm Dawun Han 👋 </h2>
-Learning can make a better version of myself! I hava a passion for learning and sharing my ideas with people to inspire each other. I have uploaded blog posts and code on github to share what I learned recently. Thank you😄
+Learning can make a better version of myself! I hava a passion for learning and sharing my ideas with people to inspire each other. I have uploaded blog posts and code on github to share what I learned recently. <br>
+Thank you😄
 
 <br></br> 
 <!-- [![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Dashlane&link=https://noiseless-sofa-93c.notion.site/05810965d1fb4e88837bc717d934e8b8)](https://noiseless-sofa-93c.notion.site/05810965d1fb4e88837bc717d934e8b8) -->
