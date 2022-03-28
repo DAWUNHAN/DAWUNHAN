@@ -40,8 +40,8 @@ Programming Skills: **Python**, HTML, CSS, WordPress, JavaScript
 
 <br></br>
 ### 📄 Projects 📄
-[![blocking-hate-speech](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=blocking-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/blocking-hate-speech)
-[![faceAgeDetection](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=faceAgeDetection&theme=tokyonight)](https://github.com/DAWUNHAN/faceAgeDetection)
+[![blocking-hate-speech](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=BERT-detect-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/BERT-detect-hate-speech)
+[![ResNet50-Face-Age-Detection](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=ResNet50-Face-Age-Detection&theme=tokyonight)](https://github.com/DAWUNHAN/ResNet50-Face-Age-Detection)
 [![boxOffice](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=boxOffice&theme=tokyonight)](https://github.com/DAWUNHAN/boxOffice)
 [![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=weather-predict&theme=tokyonight)](https://github.com/DAWUNHAN/Weather-Predict)
 [![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=game-sales-analysis&theme=tokyonight)](https://github.com/DAWUNHAN/Game-sales-Analysis)
