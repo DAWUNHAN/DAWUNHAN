@@ -5,8 +5,8 @@ Thank you😄
 
 <br></br> 
 <!-- [![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Dashlane&link=https://noiseless-sofa-93c.notion.site/05810965d1fb4e88837bc717d934e8b8)](https://noiseless-sofa-93c.notion.site/05810965d1fb4e88837bc717d934e8b8) -->
-[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-navy?style=for-the-badge&logo=github&link=https://da-journal.com/)](https://da-journal.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terrydawunhan)](https://www.linkedin.com/in/terrydawunhan)
+[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-navy?style=for-the-badge&logo=github&link=https://da-journal.com/)](https://da-journal.tistory.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terrydawunhan)](https://www.linkedin.com/in/dawunhan)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dawun.han@gmail.com)](mailto:dawun.han@gmail.com)  
 <br></br>
  ### 💻 Tech Stacks 💻
