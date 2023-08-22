@@ -40,9 +40,9 @@ Database Skills: SQL(MySQL, SQLite), NoSQL
 
 <br></br>
 ### 📄 Projects 📄
+[![srgan](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=srgan&theme=tokyonight)](https://github.com/DAWUNHAN/srgan)
 [![blocking-hate-speech](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=BERT-detect-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/BERT-detect-hate-speech)
 [![ResNet50-Face-Age-Detection](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=ResNet50-Face-Age-Detection&theme=tokyonight)](https://github.com/DAWUNHAN/ResNet50-Face-Age-Detection)
-[![boxOffice](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=boxOffice&theme=tokyonight)](https://github.com/DAWUNHAN/boxOffice)
 [![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=weather-predict&theme=tokyonight)](https://github.com/DAWUNHAN/Weather-Predict)
 [![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=game-sales-analysis&theme=tokyonight)](https://github.com/DAWUNHAN/Game-sales-Analysis)
 [![DataAnalysisInPython](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=dataAnalysisInPython&theme=tokyonight)](https://github.com/DAWUNHAN/DataAnalysisInPython)
