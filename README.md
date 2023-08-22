@@ -10,13 +10,14 @@ Thank you😄
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dawun.han@gmail.com)](mailto:dawun.han@gmail.com)  
 <br></br>
  ### 💻 Tech Stacks 💻
-Data Science: **TensorFlow**, OpenCV, Scikit-learn, Keras, Pandas
+Data Science: **PyTorch**, TensorFlow, OpenCV
+
+Tools: Google Cloud Platform, Docker, Kubernetes
+
+Programming Skills: **Python**, JavaScript
 
 Database Skills: **SQL**, NoSQL, MySQL  
 
-Data Visualisation: **Tableau, Google Data Studio**, Metabase  
-
-Programming Skills: **Python**, HTML, CSS, WordPress, JavaScript
 
 
 <!--  <img align="center" alt="tf" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/Tensorflow_logo.png?raw=true"></img>
