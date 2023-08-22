@@ -12,12 +12,11 @@ Thank you😄
  ### 💻 Tech Stacks 💻
 Data Science: **PyTorch**, TensorFlow, OpenCV
 
-Tools: Google Cloud Platform, Docker, Kubernetes
+Tools: **Google Cloud Platform, Docker, Kubernetes**
 
 Programming Skills: **Python**, JavaScript
 
-Database Skills: **SQL**, NoSQL, MySQL  
-
+Database Skills: SQL(MySQL, SQLite), NoSQL
 
 
 <!--  <img align="center" alt="tf" width="26px" src="https://github.com/DAWUNHAN/DAWUNHAN/blob/master/Tensorflow_logo.png?raw=true"></img>
