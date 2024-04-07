@@ -40,6 +40,7 @@ Database Skills: SQL(MySQL, SQLite), NoSQL
 
 <br></br>
 ### 📄 Projects 📄
+[![fullstackGPT](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=fullstack-gpt&theme=tokyonight)](https://github.com/DAWUNHAN/fullstack-gpt)
 [![srgan](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=srgan&theme=tokyonight)](https://github.com/DAWUNHAN/srgan)
 [![blocking-hate-speech](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=BERT-detect-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/BERT-detect-hate-speech)
 [![ResNet50-Face-Age-Detection](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=ResNet50-Face-Age-Detection&theme=tokyonight)](https://github.com/DAWUNHAN/ResNet50-Face-Age-Detection)
