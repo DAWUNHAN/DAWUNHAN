@@ -10,7 +10,7 @@ Thank you😄
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terrydawunhan)](https://www.linkedin.com/in/dawunhan)
 <br></br>
  ### 💻 Tech Stacks 💻
-Data Science: **PyTorch**, TensorFlow, OpenCV
+Data Science: **PyTorch**, **Langchain**, TensorFlow, OpenCV
 
 Tools: **Google Cloud Platform, Docker, Kubernetes**
 
@@ -48,7 +48,7 @@ Database Skills: SQL(MySQL, SQLite), NoSQL
 [![Game-sales-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=game-sales-analysis&theme=tokyonight)](https://github.com/DAWUNHAN/Game-sales-Analysis)
 [![DataAnalysisInPython](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=dataAnalysisInPython&theme=tokyonight)](https://github.com/DAWUNHAN/DataAnalysisInPython)
 [![MachineLearning](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=machine-learning&theme=tokyonight)](https://github.com/DAWUNHAN/Machine-Learning)
-[![deeplearning-fundamental](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=deeplearning-fundamental&theme=tokyonight)](https://github.com/DAWUNHAN/deeplearning-fundamental)
+
 
 <br></br>
 
