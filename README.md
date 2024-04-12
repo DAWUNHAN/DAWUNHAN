@@ -1,6 +1,8 @@
 <div align="center">.  
   <h2> Hola, I'm Dawun Han 👋 </h2>
-Learning can make a better version of myself! I hava a passion for learning and sharing my ideas with people to inspire each other. I have uploaded blog posts and code on github to share what I learned recently. <br>
+Learning can make a better version of myself! </br> 
+I hava a passion for learning and sharing my ideas with people to inspire each other. </br> 
+I have uploaded blog posts and code on github to share what I learned recently. <br>
 Thank you😄
 
 <br></br> 
